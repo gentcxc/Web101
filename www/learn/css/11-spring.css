@@ -1,0 +1,14 @@
+div
+{
+    margin-left:300px;
+    margin-top:200px
+}
+.left
+{
+    float: left;
+    width: 400px;
+    height: 1200px;
+    position:fixed;
+    left:0%;
+    top:0%
+}
