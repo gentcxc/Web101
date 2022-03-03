@@ -1,0 +1,21 @@
+hr
+{
+    border: 8px solid lightslategray
+     
+}
+body
+{
+    background-color:whitesmoke
+}
+h1,h2,h4
+{
+    color:#161718;
+    font-size: 24px;
+    font-family:monospace;
+    border-style: double;
+}
+li
+{
+    font-family:monospace;
+    font-size: 18px;
+}
